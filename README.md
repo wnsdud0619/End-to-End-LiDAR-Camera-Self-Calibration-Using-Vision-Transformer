@@ -5,7 +5,7 @@
 we run the project on CUDA11.3
 #### **Step 1.** Create a conda virtual environment and activate it
 ```
-conda create -n mrcnet python=3.7 -y
+conda create -n E2E_cali python=3.7 -y
 conda activate E2E_cali
 conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
 ```
