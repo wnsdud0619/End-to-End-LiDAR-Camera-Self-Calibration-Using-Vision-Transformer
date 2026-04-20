@@ -10,7 +10,7 @@ conda activate E2E_cali
 conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
 ```
 
-#### **Step 2.** Install MRCNet
+#### **Step 2.** Install Model
 ```
 git clone https://github.com/wnsdud0619/End-to-End-LiDAR-Camera-Self-Calibration-Using-Vision-Transformer.git
 cd End-to-End-LiDAR-Camera-Self-Calibration-Using-Vision-Transformer
